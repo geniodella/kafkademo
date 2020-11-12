@@ -31,5 +31,8 @@ Payload used on postman with endpoint : localhost:9090/players
   Command used to run the project : 
   
   mvn clean spring-boot:run
+  
+  Note : 
+  used Conduktor to consume the topic and test that the even were arriving.
 
 
